@@ -1,0 +1,6 @@
+{
+  "name": "Food Hotel Management System - Core Java & MySQL",
+  "description": "Desktop-based Food Hotel Management System with Core Java, OOP principles, JDBC, MySQL, Collections, Exception Handling, File I/O, live POS simulator, Java source code repository, and comprehensive theory guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
